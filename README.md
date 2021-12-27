@@ -10,4 +10,7 @@ Foi utilizado conceitos de <strong>HTML</strong>, <strong>CSS</strong> e <strong
 Acesse clicando ➡️ [aqui.](https://ricardo-dev-1988.github.io/projeto-urna-eletr-nica/)
 <br/><br/>
 ## :bookmark: Layout
-
+![1](https://user-images.githubusercontent.com/93559261/147426711-8a59e8b6-050b-49dc-9e7b-b592c370451e.png)
+![2](https://user-images.githubusercontent.com/93559261/147426720-26d87d51-b50d-4bc3-bc20-4d05d9f911c8.png)
+![3](https://user-images.githubusercontent.com/93559261/147426727-06da5935-e0d0-4d1a-b411-428b10471700.png)
+![4](https://user-images.githubusercontent.com/93559261/147426730-e8fe090c-08f0-454c-ac02-b734f186d3f5.png)
